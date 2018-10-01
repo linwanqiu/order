@@ -20,3 +20,4 @@ deploy/*.war
 **/**/node_modules/**
 **/**/dest/**
 **/**/*.tar.gz
+/bin/
